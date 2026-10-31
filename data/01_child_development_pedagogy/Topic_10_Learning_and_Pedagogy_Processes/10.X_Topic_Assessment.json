@@ -1,0 +1,305 @@
+{
+  "assessment_id": "CDP_T10_ASSESSMENT",
+  "level": "TOPIC",
+  "subject_id": "CDP",
+  "topic_id": "CDP_T10",
+  "title_hi": "अधिगम और अध्यापन: बालक कैसे सोचते और सीखते हैं — अध्याय मूल्यांकन",
+  "exam_scope": "BOTH",
+  "total_questions": 6,
+  "questions": [
+    {
+      "id": "CDP_Q_10_1_001",
+      "micro_id": "10.1",
+      "exam_scope": "CTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[10.1] 'बालक किस प्रकार सोचते और सीखते हैं; विद्यालय प्रदर्शन में सफलता प्राप्त करने में कैसे और क्यों असफल होते हैं; सामाजिक क्रियाकलाप के रूप में अधिगम' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[10.1] Regarding 'How Children Think Learn Failure', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बालक किस प्रकार सोचते और सीखते हैं; विद्यालय प्रदर्शन में सफलता प्राप्त करने में कैसे और क्यों असफल होते हैं; सामाजिक क्रियाकलाप के रूप में अधिगम' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'How Children Think Learn Failure', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "अधिगम और अध्यापन: बालक कैसे सोचते और सीखते हैं -> संज्ञान, संवेग, अभिप्रेरणा, त्रुटियाँ एवं वैज्ञानिक अन्वेषक (बालक किस प्रकार सोचते और सीखते हैं; विद्यालय प्रदर्शन में सफलता प्राप्त करने में कैसे और क्यों असफल होते हैं; सामाजिक क्रियाकलाप के रूप में अधिगम)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '10.1' (CTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "How_Children_Think_Learn_Failure",
+        "CDP_T10_S01",
+        "CDP_T10",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_10_1_901",
+      "micro_id": "10.1",
+      "exam_scope": "CTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[10.1] परीक्षा दृष्टिकोण (CTET_ONLY) के अनुसार 'बालक किस प्रकार सोचते और सीखते हैं; विद्यालय प्रदर्शन में सफलता प्राप्त करने में कैसे और क्यों असफल होते हैं; सामाजिक क्रियाकलाप के रूप में अधिगम' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[10.1] According to the CTET_ONLY syllabus, what is the primary educational objective of 'How Children Think Learn Failure'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बालक किस प्रकार सोचते और सीखते हैं; विद्यालय प्रदर्शन में सफलता प्राप्त करने में कैसे और क्यों असफल होते हैं; सामाजिक क्रियाकलाप के रूप में अधिगम' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'How Children Think Learn Failure', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "अधिगम और अध्यापन: बालक कैसे सोचते और सीखते हैं -> संज्ञान, संवेग, अभिप्रेरणा, त्रुटियाँ एवं वैज्ञानिक अन्वेषक (बालक किस प्रकार सोचते और सीखते हैं; विद्यालय प्रदर्शन में सफलता प्राप्त करने में कैसे और क्यों असफल होते हैं; सामाजिक क्रियाकलाप के रूप में अधिगम)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '10.1' (CTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "How_Children_Think_Learn_Failure",
+        "CDP_T10_S01",
+        "CDP_T10",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_10_2_001",
+      "micro_id": "10.2",
+      "exam_scope": "CTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[10.2] 'समस्या समाधानकर्ता और 'वैज्ञानिक अन्वेषक' के रूप में बालक; वैकल्पिक संकल्पनाएँ एवं अधिगम में महत्वपूर्ण चरण के रूप में बच्चों की त्रुटियाँ' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[10.2] Regarding 'Problem Solver Scientific Investigator Errors', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'समस्या समाधानकर्ता और 'वैज्ञानिक अन्वेषक' के रूप में बालक; वैकल्पिक संकल्पनाएँ एवं अधिगम में महत्वपूर्ण चरण के रूप में बच्चों की त्रुटियाँ' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Problem Solver Scientific Investigator Errors', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "अधिगम और अध्यापन: बालक कैसे सोचते और सीखते हैं -> संज्ञान, संवेग, अभिप्रेरणा, त्रुटियाँ एवं वैज्ञानिक अन्वेषक (समस्या समाधानकर्ता और 'वैज्ञानिक अन्वेषक' के रूप में बालक; वैकल्पिक संकल्पनाएँ एवं अधिगम में महत्वपूर्ण चरण के रूप में बच्चों की त्रुटियाँ)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '10.2' (CTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Problem_Solver_Scientific_Investigator_Errors",
+        "CDP_T10_S01",
+        "CDP_T10",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_10_2_901",
+      "micro_id": "10.2",
+      "exam_scope": "CTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[10.2] परीक्षा दृष्टिकोण (CTET_ONLY) के अनुसार 'समस्या समाधानकर्ता और 'वैज्ञानिक अन्वेषक' के रूप में बालक; वैकल्पिक संकल्पनाएँ एवं अधिगम में महत्वपूर्ण चरण के रूप में बच्चों की त्रुटियाँ' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[10.2] According to the CTET_ONLY syllabus, what is the primary educational objective of 'Problem Solver Scientific Investigator Errors'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'समस्या समाधानकर्ता और 'वैज्ञानिक अन्वेषक' के रूप में बालक; वैकल्पिक संकल्पनाएँ एवं अधिगम में महत्वपूर्ण चरण के रूप में बच्चों की त्रुटियाँ' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Problem Solver Scientific Investigator Errors', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "अधिगम और अध्यापन: बालक कैसे सोचते और सीखते हैं -> संज्ञान, संवेग, अभिप्रेरणा, त्रुटियाँ एवं वैज्ञानिक अन्वेषक (समस्या समाधानकर्ता और 'वैज्ञानिक अन्वेषक' के रूप में बालक; वैकल्पिक संकल्पनाएँ एवं अधिगम में महत्वपूर्ण चरण के रूप में बच्चों की त्रुटियाँ)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '10.2' (CTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Problem_Solver_Scientific_Investigator_Errors",
+        "CDP_T10_S01",
+        "CDP_T10",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_10_3_001",
+      "micro_id": "10.3",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[10.3] 'बोध और संवेदनाएँ (Cognition & Emotions), अभिप्रेरणा और अधिगम (आंतरिक/बाह्य, मैस्लो) तथा अधिगम में योगदान देने वाले व्यक्तिगत व पर्यावरणीय कारक' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[10.3] Regarding 'Cognition Emotion Motivation Factors', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बोध और संवेदनाएँ (Cognition & Emotions), अभिप्रेरणा और अधिगम (आंतरिक/बाह्य, मैस्लो) तथा अधिगम में योगदान देने वाले व्यक्तिगत व पर्यावरणीय कारक' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Cognition Emotion Motivation Factors', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "अधिगम और अध्यापन: बालक कैसे सोचते और सीखते हैं -> संज्ञान, संवेग, अभिप्रेरणा, त्रुटियाँ एवं वैज्ञानिक अन्वेषक (बोध और संवेदनाएँ (Cognition & Emotions), अभिप्रेरणा और अधिगम (आंतरिक/बाह्य, मैस्लो) तथा अधिगम में योगदान देने वाले व्यक्तिगत व पर्यावरणीय कारक)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '10.3' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Cognition_Emotion_Motivation_Factors",
+        "CDP_T10_S01",
+        "CDP_T10",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_10_3_901",
+      "micro_id": "10.3",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[10.3] परीक्षा दृष्टिकोण (BOTH) के अनुसार 'बोध और संवेदनाएँ (Cognition & Emotions), अभिप्रेरणा और अधिगम (आंतरिक/बाह्य, मैस्लो) तथा अधिगम में योगदान देने वाले व्यक्तिगत व पर्यावरणीय कारक' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[10.3] According to the BOTH syllabus, what is the primary educational objective of 'Cognition Emotion Motivation Factors'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बोध और संवेदनाएँ (Cognition & Emotions), अभिप्रेरणा और अधिगम (आंतरिक/बाह्य, मैस्लो) तथा अधिगम में योगदान देने वाले व्यक्तिगत व पर्यावरणीय कारक' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Cognition Emotion Motivation Factors', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "अधिगम और अध्यापन: बालक कैसे सोचते और सीखते हैं -> संज्ञान, संवेग, अभिप्रेरणा, त्रुटियाँ एवं वैज्ञानिक अन्वेषक (बोध और संवेदनाएँ (Cognition & Emotions), अभिप्रेरणा और अधिगम (आंतरिक/बाह्य, मैस्लो) तथा अधिगम में योगदान देने वाले व्यक्तिगत व पर्यावरणीय कारक)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '10.3' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Cognition_Emotion_Motivation_Factors",
+        "CDP_T10_S01",
+        "CDP_T10",
+        "CDP"
+      ]
+    }
+  ]
+}

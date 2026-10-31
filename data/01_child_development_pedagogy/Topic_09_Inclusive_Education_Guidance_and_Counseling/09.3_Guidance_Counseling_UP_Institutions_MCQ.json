@@ -1,0 +1,101 @@
+[
+  {
+    "id": "CDP_Q_09_3_001",
+    "micro_id": "09.3",
+    "exam_scope": "UPTET_ONLY",
+    "paper_level": [
+      "PAPER_1",
+      "PAPER_2"
+    ],
+    "question_type": "CONCEPTUAL_MCQ",
+    "source_type": "ORIGINAL",
+    "question_hi": "[09.3] 'निर्देशन एवं परामर्श तथा सहयोगी संस्थाएँ: मनोविज्ञानशाला उ.प्र. (प्रयागराज), मण्डलीय मनोविज्ञान केन्द्र, जिला चिकित्सालय, DIET मेण्टर, पर्यवेक्षण तंत्र एवं समुदाय' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+    "question_en": "[09.3] Regarding 'Guidance Counseling UP Institutions', which statement is most appropriate according to child-centered pedagogy?",
+    "options_hi": [
+      "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+      "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+      "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+      "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+    ],
+    "options_en": [
+      "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+      "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+      "Classifying learners permanently through strict punishment and standardized testing",
+      "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+    ],
+    "correctIndex": 1,
+    "explanation_hi": "'निर्देशन एवं परामर्श तथा सहयोगी संस्थाएँ: मनोविज्ञानशाला उ.प्र. (प्रयागराज), मण्डलीय मनोविज्ञान केन्द्र, जिला चिकित्सालय, DIET मेण्टर, पर्यवेक्षण तंत्र एवं समुदाय' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'Guidance Counseling UP Institutions', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "समावेशी शिक्षा, विशिष्ट बालक, निर्देशन एवं परामर्श -> समावेशी शिक्षा एवं विविध पृष्ठभूमि के शिक्षार्थी (निर्देशन एवं परामर्श तथा सहयोगी संस्थाएँ: मनोविज्ञानशाला उ.प्र. (प्रयागराज), मण्डलीय मनोविज्ञान केन्द्र, जिला चिकित्सालय, DIET मेण्टर, पर्यवेक्षण तंत्र एवं समुदाय)",
+      "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '09.3' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "MEDIUM",
+    "bloom_level": "UNDERSTAND",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "Guidance_Counseling_UP_Institutions",
+      "CDP_T09_S01",
+      "CDP_T09",
+      "CDP"
+    ]
+  },
+  {
+    "id": "CDP_Q_09_3_002",
+    "micro_id": "09.3",
+    "exam_scope": "UPTET_ONLY",
+    "paper_level": [
+      "PAPER_1",
+      "PAPER_2"
+    ],
+    "question_type": "PEDAGOGY_CASE",
+    "source_type": "ORIGINAL",
+    "question_hi": "[09.3] उप-अध्याय 'समावेशी शिक्षा एवं विविध पृष्ठभूमि के शिक्षार्थी' के अंतर्गत कक्षा में शिक्षण करते समय शिक्षक को किस शैक्षणिक रणनीति को अपनाना चाहिए?",
+    "question_en": "[09.3] While teaching 'Guidance Counseling UP Institutions', which pedagogical strategy should a teacher adopt in the classroom?",
+    "options_hi": [
+      "त्रुटियों को अधिगम प्रक्रिया का स्वाभाविक हिस्सा मानकर निदानात्मक व उपचारात्मक सहयोग देना",
+      "केवल उच्च अंक लाने वाले छात्रों पर ध्यान केंद्रित करना और शेष को छोड़ देना",
+      "व्याख्यान विधि द्वारा बिना किसी प्रश्नोत्तर या चर्चा के पाठ्यक्रम समाप्त करना",
+      "बच्चों को प्रश्न पूछने और जिज्ञासा व्यक्त करने से हतोत्साहित करना"
+    ],
+    "options_en": [
+      "Treat errors as a natural window into thinking and provide diagnostic scaffolded support",
+      "Focus exclusively on high-scoring students while ignoring struggling learners",
+      "Finish the syllabus rapidly via passive lecture without discussion",
+      "Discourage students from asking questions or expressing curiosity"
+    ],
+    "correctIndex": 0,
+    "explanation_hi": "'निर्देशन एवं परामर्श तथा सहयोगी संस्थाएँ: मनोविज्ञानशाला उ.प्र. (प्रयागराज), मण्डलीय मनोविज्ञान केन्द्र, जिला चिकित्सालय, DIET मेण्टर, पर्यवेक्षण तंत्र एवं समुदाय' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'Guidance Counseling UP Institutions', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "समावेशी शिक्षा, विशिष्ट बालक, निर्देशन एवं परामर्श -> समावेशी शिक्षा एवं विविध पृष्ठभूमि के शिक्षार्थी (निर्देशन एवं परामर्श तथा सहयोगी संस्थाएँ: मनोविज्ञानशाला उ.प्र. (प्रयागराज), मण्डलीय मनोविज्ञान केन्द्र, जिला चिकित्सालय, DIET मेण्टर, पर्यवेक्षण तंत्र एवं समुदाय)",
+      "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '09.3' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "HARD",
+    "bloom_level": "APPLY",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "Guidance_Counseling_UP_Institutions",
+      "CDP_T09_S01",
+      "CDP_T09",
+      "CDP"
+    ],
+    "case_study_hi": "एक प्राथमिक/उच्च प्राथमिक विद्यालय की कक्षा में शिक्षक 'निर्देशन एवं परामर्श तथा सहयोगी संस्थाएँ: मनोविज्ञानशाला उ.प्र. (प्रयागराज), मण्डलीय मनोविज्ञान केन्द्र, जिला चिकित्सालय, DIET मेण्टर, पर्यवेक्षण तंत्र एवं समुदाय' विषयवस्तु पढ़ा रहे हैं। कक्षा में विविध पृष्ठभूमि और अलग-अलग सीखने की गति वाले विद्यार्थी उपस्थित हैं।"
+  }
+]

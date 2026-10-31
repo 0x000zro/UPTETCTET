@@ -1,0 +1,99 @@
+[
+  {
+    "id": "EVS_Q_03_2_001",
+    "micro_id": "03.2",
+    "exam_scope": "UPTET_ONLY",
+    "paper_level": [
+      "PAPER_1"
+    ],
+    "question_type": "CONCEPTUAL_MCQ",
+    "source_type": "ORIGINAL",
+    "question_hi": "[03.2] 'संविधान, शासन व्यवस्था (स्थानीय स्वशासन, ग्राम-पंचायत, नगर-पंचायत, जिला-पंचायत, नगरपालिका, नगर-निगम, जिला-प्रशासन, प्रदेश की शासन व्यवस्था, व्यवस्थापिका, न्यायपालिका, कार्यपालिका), राष्ट्रीय पर्व, राष्ट्रीय प्रतीक, मतदान, राष्ट्रीय एकता तथा पर्यावरण-आवश्यकता, महत्व व संरक्षण' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+    "question_en": "[03.2] Regarding 'Constitution Governance Panchayati Raj Environment Protection', which statement is most appropriate according to child-centered pedagogy?",
+    "options_hi": [
+      "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+      "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+      "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+      "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+    ],
+    "options_en": [
+      "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+      "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+      "Classifying learners permanently through strict punishment and standardized testing",
+      "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+    ],
+    "correctIndex": 1,
+    "explanation_hi": "'संविधान, शासन व्यवस्था (स्थानीय स्वशासन, ग्राम-पंचायत, नगर-पंचायत, जिला-पंचायत, नगरपालिका, नगर-निगम, जिला-प्रशासन, प्रदेश की शासन व्यवस्था, व्यवस्थापिका, न्यायपालिका, कार्यपालिका), राष्ट्रीय पर्व, राष्ट्रीय प्रतीक, मतदान, राष्ट्रीय एकता तथा पर्यावरण-आवश्यकता, महत्व व संरक्षण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'Constitution Governance Panchayati Raj Environment Protection', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "भारत व उत्तर प्रदेश का भूगोल, पर्यावरण संरक्षण एवं भारतीय संविधान (UPTET विशेष) -> भूगोल, हमारा प्रदेश (उ.प्र.), संविधान एवं पर्यावरण आवश्यकता (संविधान, शासन व्यवस्था (स्थानीय स्वशासन, ग्राम-पंचायत, नगर-पंचायत, जिला-पंचायत, नगरपालिका, नगर-निगम, जिला-प्रशासन, प्रदेश की शासन व्यवस्था, व्यवस्थापिका, न्यायपालिका, कार्यपालिका), राष्ट्रीय पर्व, राष्ट्रीय प्रतीक, मतदान, राष्ट्रीय एकता तथा पर्यावरण-आवश्यकता, महत्व व संरक्षण)",
+      "exam_perspective": "ZPD, पाड़ (Scaffolding) और निज वाक् बनाम पियाजे के अहं-केंद्रित वाक् की तुलना। सामाजिक-सांस्कृतिक सिद्धांत के प्रतिपादक एवं ZPD/MKO का सीधा अर्थ।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '03.2' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "MEDIUM",
+    "bloom_level": "UNDERSTAND",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "Constitution_Governance_Panchayati_Raj_Environment_Protection",
+      "EVS_T03_S01",
+      "EVS_T03",
+      "EVS"
+    ]
+  },
+  {
+    "id": "EVS_Q_03_2_002",
+    "micro_id": "03.2",
+    "exam_scope": "UPTET_ONLY",
+    "paper_level": [
+      "PAPER_1"
+    ],
+    "question_type": "PEDAGOGY_CASE",
+    "source_type": "ORIGINAL",
+    "question_hi": "[03.2] उप-अध्याय 'भूगोल, हमारा प्रदेश (उ.प्र.), संविधान एवं पर्यावरण आवश्यकता' के अंतर्गत कक्षा में शिक्षण करते समय शिक्षक को किस शैक्षणिक रणनीति को अपनाना चाहिए?",
+    "question_en": "[03.2] While teaching 'Constitution Governance Panchayati Raj Environment Protection', which pedagogical strategy should a teacher adopt in the classroom?",
+    "options_hi": [
+      "त्रुटियों को अधिगम प्रक्रिया का स्वाभाविक हिस्सा मानकर निदानात्मक व उपचारात्मक सहयोग देना",
+      "केवल उच्च अंक लाने वाले छात्रों पर ध्यान केंद्रित करना और शेष को छोड़ देना",
+      "व्याख्यान विधि द्वारा बिना किसी प्रश्नोत्तर या चर्चा के पाठ्यक्रम समाप्त करना",
+      "बच्चों को प्रश्न पूछने और जिज्ञासा व्यक्त करने से हतोत्साहित करना"
+    ],
+    "options_en": [
+      "Treat errors as a natural window into thinking and provide diagnostic scaffolded support",
+      "Focus exclusively on high-scoring students while ignoring struggling learners",
+      "Finish the syllabus rapidly via passive lecture without discussion",
+      "Discourage students from asking questions or expressing curiosity"
+    ],
+    "correctIndex": 0,
+    "explanation_hi": "'संविधान, शासन व्यवस्था (स्थानीय स्वशासन, ग्राम-पंचायत, नगर-पंचायत, जिला-पंचायत, नगरपालिका, नगर-निगम, जिला-प्रशासन, प्रदेश की शासन व्यवस्था, व्यवस्थापिका, न्यायपालिका, कार्यपालिका), राष्ट्रीय पर्व, राष्ट्रीय प्रतीक, मतदान, राष्ट्रीय एकता तथा पर्यावरण-आवश्यकता, महत्व व संरक्षण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'Constitution Governance Panchayati Raj Environment Protection', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "भारत व उत्तर प्रदेश का भूगोल, पर्यावरण संरक्षण एवं भारतीय संविधान (UPTET विशेष) -> भूगोल, हमारा प्रदेश (उ.प्र.), संविधान एवं पर्यावरण आवश्यकता (संविधान, शासन व्यवस्था (स्थानीय स्वशासन, ग्राम-पंचायत, नगर-पंचायत, जिला-पंचायत, नगरपालिका, नगर-निगम, जिला-प्रशासन, प्रदेश की शासन व्यवस्था, व्यवस्थापिका, न्यायपालिका, कार्यपालिका), राष्ट्रीय पर्व, राष्ट्रीय प्रतीक, मतदान, राष्ट्रीय एकता तथा पर्यावरण-आवश्यकता, महत्व व संरक्षण)",
+      "exam_perspective": "ZPD, पाड़ (Scaffolding) और निज वाक् बनाम पियाजे के अहं-केंद्रित वाक् की तुलना। सामाजिक-सांस्कृतिक सिद्धांत के प्रतिपादक एवं ZPD/MKO का सीधा अर्थ।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '03.2' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "HARD",
+    "bloom_level": "APPLY",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "Constitution_Governance_Panchayati_Raj_Environment_Protection",
+      "EVS_T03_S01",
+      "EVS_T03",
+      "EVS"
+    ],
+    "case_study_hi": "एक प्राथमिक/उच्च प्राथमिक विद्यालय की कक्षा में शिक्षक 'संविधान, शासन व्यवस्था (स्थानीय स्वशासन, ग्राम-पंचायत, नगर-पंचायत, जिला-पंचायत, नगरपालिका, नगर-निगम, जिला-प्रशासन, प्रदेश की शासन व्यवस्था, व्यवस्थापिका, न्यायपालिका, कार्यपालिका), राष्ट्रीय पर्व, राष्ट्रीय प्रतीक, मतदान, राष्ट्रीय एकता तथा पर्यावरण-आवश्यकता, महत्व व संरक्षण' विषयवस्तु पढ़ा रहे हैं। कक्षा में विविध पृष्ठभूमि और अलग-अलग सीखने की गति वाले विद्यार्थी उपस्थित हैं।"
+  }
+]

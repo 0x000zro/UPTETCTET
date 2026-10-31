@@ -1,0 +1,207 @@
+{
+  "assessment_id": "CDP_T08_ASSESSMENT",
+  "level": "TOPIC",
+  "subject_id": "CDP",
+  "topic_id": "CDP_T08",
+  "title_hi": "शिक्षण एवं शिक्षण विधाएँ, सूत्र, संप्रेषण एवं सूक्ष्म शिक्षण — अध्याय मूल्यांकन",
+  "exam_scope": "UPTET_ONLY",
+  "total_questions": 4,
+  "questions": [
+    {
+      "id": "CDP_Q_08_1_001",
+      "micro_id": "08.1",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[08.1] 'शिक्षण का अर्थ व उद्देश्य, संप्रेषण, शिक्षण के सिद्धांत एवं शिक्षण सूत्र (ज्ञात से अज्ञात, मूर्त से अमूर्त आदि)' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[08.1] Regarding 'Teaching Meaning Communication Maxims', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'शिक्षण का अर्थ व उद्देश्य, संप्रेषण, शिक्षण के सिद्धांत एवं शिक्षण सूत्र (ज्ञात से अज्ञात, मूर्त से अमूर्त आदि)' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Teaching Meaning Communication Maxims', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "शिक्षण एवं शिक्षण विधाएँ, सूत्र, संप्रेषण एवं सूक्ष्म शिक्षण -> शिक्षण के सिद्धांत, सूत्र एवं नवीन विधाएँ (शिक्षण का अर्थ व उद्देश्य, संप्रेषण, शिक्षण के सिद्धांत एवं शिक्षण सूत्र (ज्ञात से अज्ञात, मूर्त से अमूर्त आदि))",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '08.1' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Teaching_Meaning_Communication_Maxims",
+        "CDP_T08_S01",
+        "CDP_T08",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_08_1_901",
+      "micro_id": "08.1",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[08.1] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'शिक्षण का अर्थ व उद्देश्य, संप्रेषण, शिक्षण के सिद्धांत एवं शिक्षण सूत्र (ज्ञात से अज्ञात, मूर्त से अमूर्त आदि)' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[08.1] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'Teaching Meaning Communication Maxims'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'शिक्षण का अर्थ व उद्देश्य, संप्रेषण, शिक्षण के सिद्धांत एवं शिक्षण सूत्र (ज्ञात से अज्ञात, मूर्त से अमूर्त आदि)' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Teaching Meaning Communication Maxims', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "शिक्षण एवं शिक्षण विधाएँ, सूत्र, संप्रेषण एवं सूक्ष्म शिक्षण -> शिक्षण के सिद्धांत, सूत्र एवं नवीन विधाएँ (शिक्षण का अर्थ व उद्देश्य, संप्रेषण, शिक्षण के सिद्धांत एवं शिक्षण सूत्र (ज्ञात से अज्ञात, मूर्त से अमूर्त आदि))",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '08.1' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Teaching_Meaning_Communication_Maxims",
+        "CDP_T08_S01",
+        "CDP_T08",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_08_2_001",
+      "micro_id": "08.2",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[08.2] 'शिक्षण की नवीन विधाएँ (उपागम), सूक्ष्म शिक्षण (36 मिनट चक्र) एवं शिक्षण के आधारभूत कौशल, शिक्षण स्तर व ब्लूम वर्गीकरण' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[08.2] Regarding 'MicroTeaching Levels Bloom Programmed', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'शिक्षण की नवीन विधाएँ (उपागम), सूक्ष्म शिक्षण (36 मिनट चक्र) एवं शिक्षण के आधारभूत कौशल, शिक्षण स्तर व ब्लूम वर्गीकरण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'MicroTeaching Levels Bloom Programmed', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "शिक्षण एवं शिक्षण विधाएँ, सूत्र, संप्रेषण एवं सूक्ष्म शिक्षण -> शिक्षण के सिद्धांत, सूत्र एवं नवीन विधाएँ (शिक्षण की नवीन विधाएँ (उपागम), सूक्ष्म शिक्षण (36 मिनट चक्र) एवं शिक्षण के आधारभूत कौशल, शिक्षण स्तर व ब्लूम वर्गीकरण)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '08.2' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "MicroTeaching_Levels_Bloom_Programmed",
+        "CDP_T08_S01",
+        "CDP_T08",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_08_2_901",
+      "micro_id": "08.2",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[08.2] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'शिक्षण की नवीन विधाएँ (उपागम), सूक्ष्म शिक्षण (36 मिनट चक्र) एवं शिक्षण के आधारभूत कौशल, शिक्षण स्तर व ब्लूम वर्गीकरण' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[08.2] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'MicroTeaching Levels Bloom Programmed'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'शिक्षण की नवीन विधाएँ (उपागम), सूक्ष्म शिक्षण (36 मिनट चक्र) एवं शिक्षण के आधारभूत कौशल, शिक्षण स्तर व ब्लूम वर्गीकरण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'MicroTeaching Levels Bloom Programmed', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "शिक्षण एवं शिक्षण विधाएँ, सूत्र, संप्रेषण एवं सूक्ष्म शिक्षण -> शिक्षण के सिद्धांत, सूत्र एवं नवीन विधाएँ (शिक्षण की नवीन विधाएँ (उपागम), सूक्ष्म शिक्षण (36 मिनट चक्र) एवं शिक्षण के आधारभूत कौशल, शिक्षण स्तर व ब्लूम वर्गीकरण)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '08.2' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "MicroTeaching_Levels_Bloom_Programmed",
+        "CDP_T08_S01",
+        "CDP_T08",
+        "CDP"
+      ]
+    }
+  ]
+}

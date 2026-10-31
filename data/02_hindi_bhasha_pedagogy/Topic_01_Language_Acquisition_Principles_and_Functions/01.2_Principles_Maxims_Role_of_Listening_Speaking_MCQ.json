@@ -1,0 +1,101 @@
+[
+  {
+    "id": "HIN_Q_01_2_001",
+    "micro_id": "01.2",
+    "exam_scope": "BOTH",
+    "paper_level": [
+      "PAPER_1",
+      "PAPER_2"
+    ],
+    "question_type": "CONCEPTUAL_MCQ",
+    "source_type": "ORIGINAL",
+    "question_hi": "[01.2] 'भाषा अध्यापन के सिद्धांत व सूत्र; सुनने और बोलने की भूमिका: भाषा का कार्य तथा बालक इसे किस प्रकार एक उपकरण के रूप में प्रयोग करते हैं' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+    "question_en": "[01.2] Regarding 'Principles Maxims Role of Listening Speaking', which statement is most appropriate according to child-centered pedagogy?",
+    "options_hi": [
+      "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+      "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+      "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+      "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+    ],
+    "options_en": [
+      "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+      "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+      "Classifying learners permanently through strict punishment and standardized testing",
+      "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+    ],
+    "correctIndex": 1,
+    "explanation_hi": "'भाषा अध्यापन के सिद्धांत व सूत्र; सुनने और बोलने की भूमिका: भाषा का कार्य तथा बालक इसे किस प्रकार एक उपकरण के रूप में प्रयोग करते हैं' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'Principles Maxims Role of Listening Speaking', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "अधिगम और अर्जन, भाषा अध्यापन के सिद्धांत एवं सुनने-बोलने की भूमिका -> अर्जन बनाम अधिगम एवं भाषा शिक्षण के सिद्धांत (भाषा अध्यापन के सिद्धांत व सूत्र; सुनने और बोलने की भूमिका: भाषा का कार्य तथा बालक इसे किस प्रकार एक उपकरण के रूप में प्रयोग करते हैं)",
+      "exam_perspective": "सेफालोकॉडल और प्रॉक्सिमोडिस्टल सिद्धांतों के व्यावहारिक कक्षा/शिशु उदाहरण। अभिवृद्धि बनाम विकास में अंतर और निरंतरता व सामान्य से विशिष्ट क्रियाओं का सिद्धांत।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '01.2' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "MEDIUM",
+    "bloom_level": "UNDERSTAND",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "Principles_Maxims_Role_of_Listening_Speaking",
+      "HIN_T01_S01",
+      "HIN_T01",
+      "HINDI"
+    ]
+  },
+  {
+    "id": "HIN_Q_01_2_002",
+    "micro_id": "01.2",
+    "exam_scope": "BOTH",
+    "paper_level": [
+      "PAPER_1",
+      "PAPER_2"
+    ],
+    "question_type": "PEDAGOGY_CASE",
+    "source_type": "ORIGINAL",
+    "question_hi": "[01.2] उप-अध्याय 'अर्जन बनाम अधिगम एवं भाषा शिक्षण के सिद्धांत' के अंतर्गत कक्षा में शिक्षण करते समय शिक्षक को किस शैक्षणिक रणनीति को अपनाना चाहिए?",
+    "question_en": "[01.2] While teaching 'Principles Maxims Role of Listening Speaking', which pedagogical strategy should a teacher adopt in the classroom?",
+    "options_hi": [
+      "त्रुटियों को अधिगम प्रक्रिया का स्वाभाविक हिस्सा मानकर निदानात्मक व उपचारात्मक सहयोग देना",
+      "केवल उच्च अंक लाने वाले छात्रों पर ध्यान केंद्रित करना और शेष को छोड़ देना",
+      "व्याख्यान विधि द्वारा बिना किसी प्रश्नोत्तर या चर्चा के पाठ्यक्रम समाप्त करना",
+      "बच्चों को प्रश्न पूछने और जिज्ञासा व्यक्त करने से हतोत्साहित करना"
+    ],
+    "options_en": [
+      "Treat errors as a natural window into thinking and provide diagnostic scaffolded support",
+      "Focus exclusively on high-scoring students while ignoring struggling learners",
+      "Finish the syllabus rapidly via passive lecture without discussion",
+      "Discourage students from asking questions or expressing curiosity"
+    ],
+    "correctIndex": 0,
+    "explanation_hi": "'भाषा अध्यापन के सिद्धांत व सूत्र; सुनने और बोलने की भूमिका: भाषा का कार्य तथा बालक इसे किस प्रकार एक उपकरण के रूप में प्रयोग करते हैं' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'Principles Maxims Role of Listening Speaking', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "अधिगम और अर्जन, भाषा अध्यापन के सिद्धांत एवं सुनने-बोलने की भूमिका -> अर्जन बनाम अधिगम एवं भाषा शिक्षण के सिद्धांत (भाषा अध्यापन के सिद्धांत व सूत्र; सुनने और बोलने की भूमिका: भाषा का कार्य तथा बालक इसे किस प्रकार एक उपकरण के रूप में प्रयोग करते हैं)",
+      "exam_perspective": "सेफालोकॉडल और प्रॉक्सिमोडिस्टल सिद्धांतों के व्यावहारिक कक्षा/शिशु उदाहरण। अभिवृद्धि बनाम विकास में अंतर और निरंतरता व सामान्य से विशिष्ट क्रियाओं का सिद्धांत।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '01.2' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "HARD",
+    "bloom_level": "APPLY",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "Principles_Maxims_Role_of_Listening_Speaking",
+      "HIN_T01_S01",
+      "HIN_T01",
+      "HINDI"
+    ],
+    "case_study_hi": "एक प्राथमिक/उच्च प्राथमिक विद्यालय की कक्षा में शिक्षक 'भाषा अध्यापन के सिद्धांत व सूत्र; सुनने और बोलने की भूमिका: भाषा का कार्य तथा बालक इसे किस प्रकार एक उपकरण के रूप में प्रयोग करते हैं' विषयवस्तु पढ़ा रहे हैं। कक्षा में विविध पृष्ठभूमि और अलग-अलग सीखने की गति वाले विद्यार्थी उपस्थित हैं।"
+  }
+]

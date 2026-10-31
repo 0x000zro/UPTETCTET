@@ -1,0 +1,300 @@
+{
+  "assessment_id": "EVS_MASTER_ASSESSMENT",
+  "level": "SUBJECT",
+  "subject_id": "EVS",
+  "title_hi": "पर्यावरण अध्ययन एवं पेडागोजी (Paper-I) — मास्टर मॉक परीक्षण",
+  "applicable_papers": [
+    "PAPER_1"
+  ],
+  "total_questions": 6,
+  "questions": [
+    {
+      "id": "EVS_Q_01_1_001",
+      "micro_id": "01.1",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[01.1] 'ईवीएस की अवधारणा और व्याप्ति, ईवीएस का महत्व, एकीकृत ईवीएस, पर्यावरणीय अध्ययन एवं पर्यावरणीय शिक्षा, अधिगम सिद्धांत तथा विज्ञान और सामाजिक विज्ञान की व्याप्ति और संबंध' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[01.1] Regarding 'Concept Scope Integrated EVS Environmental Education', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'ईवीएस की अवधारणा और व्याप्ति, ईवीएस का महत्व, एकीकृत ईवीएस, पर्यावरणीय अध्ययन एवं पर्यावरणीय शिक्षा, अधिगम सिद्धांत तथा विज्ञान और सामाजिक विज्ञान की व्याप्ति और संबंध' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Concept Scope Integrated EVS Environmental Education', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "पर्यावरणीय अध्ययन के अध्यापन संबंधी मुद्दे (EVS Pedagogy) -> एकीकृत ईवीएस, शिक्षण विधियाँ, CCE, TLM एवं समस्याएँ (ईवीएस की अवधारणा और व्याप्ति, ईवीएस का महत्व, एकीकृत ईवीएस, पर्यावरणीय अध्ययन एवं पर्यावरणीय शिक्षा, अधिगम सिद्धांत तथा विज्ञान और सामाजिक विज्ञान की व्याप्ति और संबंध)",
+        "exam_perspective": "विकास और अधिगम के अंतःसंबंध एवं वर्तुलाकार बनाम रेखीय प्रगति पर अनुप्रयोगात्मक प्रश्न। हरलॉक, क्रो एंड क्रो और स्किनर की प्रत्यक्ष परिभाषाएँ एवं विकास के मुख्य क्षेत्र।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '01.1' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Concept_Scope_Integrated_EVS_Environmental_Education",
+        "EVS_T01_S01",
+        "EVS_T01",
+        "EVS"
+      ]
+    },
+    {
+      "id": "EVS_Q_01_1_901",
+      "micro_id": "01.1",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[01.1] परीक्षा दृष्टिकोण (BOTH) के अनुसार 'ईवीएस की अवधारणा और व्याप्ति, ईवीएस का महत्व, एकीकृत ईवीएस, पर्यावरणीय अध्ययन एवं पर्यावरणीय शिक्षा, अधिगम सिद्धांत तथा विज्ञान और सामाजिक विज्ञान की व्याप्ति और संबंध' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[01.1] According to the BOTH syllabus, what is the primary educational objective of 'Concept Scope Integrated EVS Environmental Education'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'ईवीएस की अवधारणा और व्याप्ति, ईवीएस का महत्व, एकीकृत ईवीएस, पर्यावरणीय अध्ययन एवं पर्यावरणीय शिक्षा, अधिगम सिद्धांत तथा विज्ञान और सामाजिक विज्ञान की व्याप्ति और संबंध' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Concept Scope Integrated EVS Environmental Education', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "पर्यावरणीय अध्ययन के अध्यापन संबंधी मुद्दे (EVS Pedagogy) -> एकीकृत ईवीएस, शिक्षण विधियाँ, CCE, TLM एवं समस्याएँ (ईवीएस की अवधारणा और व्याप्ति, ईवीएस का महत्व, एकीकृत ईवीएस, पर्यावरणीय अध्ययन एवं पर्यावरणीय शिक्षा, अधिगम सिद्धांत तथा विज्ञान और सामाजिक विज्ञान की व्याप्ति और संबंध)",
+        "exam_perspective": "विकास और अधिगम के अंतःसंबंध एवं वर्तुलाकार बनाम रेखीय प्रगति पर अनुप्रयोगात्मक प्रश्न। हरलॉक, क्रो एंड क्रो और स्किनर की प्रत्यक्ष परिभाषाएँ एवं विकास के मुख्य क्षेत्र।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '01.1' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Concept_Scope_Integrated_EVS_Environmental_Education",
+        "EVS_T01_S01",
+        "EVS_T01",
+        "EVS"
+      ]
+    },
+    {
+      "id": "EVS_Q_02_1_001",
+      "micro_id": "02.1",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[02.1] 'परिवार और मित्र (संबंध, काम और खेल, पशु, पौधे) तथा भोजन, स्वास्थ्य एवं स्वच्छता' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[02.1] Regarding 'Family Friends Animals Plants Food Health', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'परिवार और मित्र (संबंध, काम और खेल, पशु, पौधे) तथा भोजन, स्वास्थ्य एवं स्वच्छता' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Family Friends Animals Plants Food Health', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ईवीएस की 6 मुख्य थीम: परिवार और मित्र, भोजन, आश्रय, जल, यात्रा, चीजें जो हम बनाते और करते हैं -> 6 मुख्य थीम एवं 4 उप-थीम (संबंध, काम और खेल, पशु, पौधे) (परिवार और मित्र (संबंध, काम और खेल, पशु, पौधे) तथा भोजन, स्वास्थ्य एवं स्वच्छता)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '02.1' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Family_Friends_Animals_Plants_Food_Health",
+        "EVS_T02_S01",
+        "EVS_T02",
+        "EVS"
+      ]
+    },
+    {
+      "id": "EVS_Q_02_1_901",
+      "micro_id": "02.1",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[02.1] परीक्षा दृष्टिकोण (BOTH) के अनुसार 'परिवार और मित्र (संबंध, काम और खेल, पशु, पौधे) तथा भोजन, स्वास्थ्य एवं स्वच्छता' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[02.1] According to the BOTH syllabus, what is the primary educational objective of 'Family Friends Animals Plants Food Health'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'परिवार और मित्र (संबंध, काम और खेल, पशु, पौधे) तथा भोजन, स्वास्थ्य एवं स्वच्छता' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Family Friends Animals Plants Food Health', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ईवीएस की 6 मुख्य थीम: परिवार और मित्र, भोजन, आश्रय, जल, यात्रा, चीजें जो हम बनाते और करते हैं -> 6 मुख्य थीम एवं 4 उप-थीम (संबंध, काम और खेल, पशु, पौधे) (परिवार और मित्र (संबंध, काम और खेल, पशु, पौधे) तथा भोजन, स्वास्थ्य एवं स्वच्छता)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '02.1' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Family_Friends_Animals_Plants_Food_Health",
+        "EVS_T02_S01",
+        "EVS_T02",
+        "EVS"
+      ]
+    },
+    {
+      "id": "EVS_Q_03_1_001",
+      "micro_id": "03.1",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.1] 'सौरमंडल, महाद्वीप एवं महासागर, भारत की नदियाँ, पर्वत, पठार, वन, प्राकृतिक संपदा तथा हमारा प्रदेश (उत्तर प्रदेश: नदियाँ, वन्यजीव विहार, मेले, लोक नृत्य, जनजातियाँ)' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[03.1] Regarding 'Solar System Continents Oceans Rivers Mountains UP Special', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'सौरमंडल, महाद्वीप एवं महासागर, भारत की नदियाँ, पर्वत, पठार, वन, प्राकृतिक संपदा तथा हमारा प्रदेश (उत्तर प्रदेश: नदियाँ, वन्यजीव विहार, मेले, लोक नृत्य, जनजातियाँ)' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Solar System Continents Oceans Rivers Mountains UP Special', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "भारत व उत्तर प्रदेश का भूगोल, पर्यावरण संरक्षण एवं भारतीय संविधान (UPTET विशेष) -> भूगोल, हमारा प्रदेश (उ.प्र.), संविधान एवं पर्यावरण आवश्यकता (सौरमंडल, महाद्वीप एवं महासागर, भारत की नदियाँ, पर्वत, पठार, वन, प्राकृतिक संपदा तथा हमारा प्रदेश (उत्तर प्रदेश: नदियाँ, वन्यजीव विहार, मेले, लोक नृत्य, जनजातियाँ))",
+        "exam_perspective": "आत्मसात्करण बनाम समायोजन, जीववाद (Animism), और संरक्षण पर केस-स्टडी प्रश्न। अवस्थाओं की आयु-सीमा, तार्किक चिंतन की शुरुआत (मूर्त अवस्था) और पियाजे की शब्दावली।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.1' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Solar_System_Continents_Oceans_Rivers_Mountains_UP_Special",
+        "EVS_T03_S01",
+        "EVS_T03",
+        "EVS"
+      ]
+    },
+    {
+      "id": "EVS_Q_03_1_901",
+      "micro_id": "03.1",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.1] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'सौरमंडल, महाद्वीप एवं महासागर, भारत की नदियाँ, पर्वत, पठार, वन, प्राकृतिक संपदा तथा हमारा प्रदेश (उत्तर प्रदेश: नदियाँ, वन्यजीव विहार, मेले, लोक नृत्य, जनजातियाँ)' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[03.1] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'Solar System Continents Oceans Rivers Mountains UP Special'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'सौरमंडल, महाद्वीप एवं महासागर, भारत की नदियाँ, पर्वत, पठार, वन, प्राकृतिक संपदा तथा हमारा प्रदेश (उत्तर प्रदेश: नदियाँ, वन्यजीव विहार, मेले, लोक नृत्य, जनजातियाँ)' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Solar System Continents Oceans Rivers Mountains UP Special', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "भारत व उत्तर प्रदेश का भूगोल, पर्यावरण संरक्षण एवं भारतीय संविधान (UPTET विशेष) -> भूगोल, हमारा प्रदेश (उ.प्र.), संविधान एवं पर्यावरण आवश्यकता (सौरमंडल, महाद्वीप एवं महासागर, भारत की नदियाँ, पर्वत, पठार, वन, प्राकृतिक संपदा तथा हमारा प्रदेश (उत्तर प्रदेश: नदियाँ, वन्यजीव विहार, मेले, लोक नृत्य, जनजातियाँ))",
+        "exam_perspective": "आत्मसात्करण बनाम समायोजन, जीववाद (Animism), और संरक्षण पर केस-स्टडी प्रश्न। अवस्थाओं की आयु-सीमा, तार्किक चिंतन की शुरुआत (मूर्त अवस्था) और पियाजे की शब्दावली।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.1' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Solar_System_Continents_Oceans_Rivers_Mountains_UP_Special",
+        "EVS_T03_S01",
+        "EVS_T03",
+        "EVS"
+      ]
+    }
+  ]
+}

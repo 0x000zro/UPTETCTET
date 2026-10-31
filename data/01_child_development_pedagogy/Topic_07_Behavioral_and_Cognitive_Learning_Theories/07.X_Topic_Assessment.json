@@ -1,0 +1,403 @@
+{
+  "assessment_id": "CDP_T07_ASSESSMENT",
+  "level": "TOPIC",
+  "subject_id": "CDP",
+  "topic_id": "CDP_T07",
+  "title_hi": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार — अध्याय मूल्यांकन",
+  "exam_scope": "UPTET_ONLY",
+  "total_questions": 8,
+  "questions": [
+    {
+      "id": "CDP_Q_07_1_001",
+      "micro_id": "07.1",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.1] 'थार्नडाइक के सीखने के मुख्य एवं गौण नियम तथा प्रयास एवं त्रुटि का सिद्धांत' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[07.1] Regarding 'Thorndike Laws Trial Error', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'थार्नडाइक के सीखने के मुख्य एवं गौण नियम तथा प्रयास एवं त्रुटि का सिद्धांत' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Thorndike Laws Trial Error', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (थार्नडाइक के सीखने के मुख्य एवं गौण नियम तथा प्रयास एवं त्रुटि का सिद्धांत)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.1' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Thorndike_Laws_Trial_Error",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_07_1_901",
+      "micro_id": "07.1",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.1] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'थार्नडाइक के सीखने के मुख्य एवं गौण नियम तथा प्रयास एवं त्रुटि का सिद्धांत' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[07.1] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'Thorndike Laws Trial Error'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'थार्नडाइक के सीखने के मुख्य एवं गौण नियम तथा प्रयास एवं त्रुटि का सिद्धांत' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Thorndike Laws Trial Error', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (थार्नडाइक के सीखने के मुख्य एवं गौण नियम तथा प्रयास एवं त्रुटि का सिद्धांत)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.1' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Thorndike_Laws_Trial_Error",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_07_2_001",
+      "micro_id": "07.2",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.2] 'पावलव का सम्बद्ध प्रतिक्रिया, स्किनर का क्रिया प्रसूत तथा कोहलर का सूझ या अन्तर्दृष्टि सिद्धांत' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[07.2] Regarding 'Pavlov Skinner Kohler Theories', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'पावलव का सम्बद्ध प्रतिक्रिया, स्किनर का क्रिया प्रसूत तथा कोहलर का सूझ या अन्तर्दृष्टि सिद्धांत' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Pavlov Skinner Kohler Theories', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (पावलव का सम्बद्ध प्रतिक्रिया, स्किनर का क्रिया प्रसूत तथा कोहलर का सूझ या अन्तर्दृष्टि सिद्धांत)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.2' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Pavlov_Skinner_Kohler_Theories",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_07_2_901",
+      "micro_id": "07.2",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.2] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'पावलव का सम्बद्ध प्रतिक्रिया, स्किनर का क्रिया प्रसूत तथा कोहलर का सूझ या अन्तर्दृष्टि सिद्धांत' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[07.2] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'Pavlov Skinner Kohler Theories'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'पावलव का सम्बद्ध प्रतिक्रिया, स्किनर का क्रिया प्रसूत तथा कोहलर का सूझ या अन्तर्दृष्टि सिद्धांत' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Pavlov Skinner Kohler Theories', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (पावलव का सम्बद्ध प्रतिक्रिया, स्किनर का क्रिया प्रसूत तथा कोहलर का सूझ या अन्तर्दृष्टि सिद्धांत)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.2' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Pavlov_Skinner_Kohler_Theories",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_07_3_001",
+      "micro_id": "07.3",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.3] 'सीखने का वक्र (अर्थ एवं प्रकार), सीखने में पठार (अर्थ, कारण व निराकरण) एवं अधिगम स्थानांतरण' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[07.3] Regarding 'Learning Curves Plateau Transfer', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'सीखने का वक्र (अर्थ एवं प्रकार), सीखने में पठार (अर्थ, कारण व निराकरण) एवं अधिगम स्थानांतरण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Learning Curves Plateau Transfer', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (सीखने का वक्र (अर्थ एवं प्रकार), सीखने में पठार (अर्थ, कारण व निराकरण) एवं अधिगम स्थानांतरण)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.3' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Learning_Curves_Plateau_Transfer",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_07_3_901",
+      "micro_id": "07.3",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.3] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'सीखने का वक्र (अर्थ एवं प्रकार), सीखने में पठार (अर्थ, कारण व निराकरण) एवं अधिगम स्थानांतरण' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[07.3] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'Learning Curves Plateau Transfer'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'सीखने का वक्र (अर्थ एवं प्रकार), सीखने में पठार (अर्थ, कारण व निराकरण) एवं अधिगम स्थानांतरण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Learning Curves Plateau Transfer', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (सीखने का वक्र (अर्थ एवं प्रकार), सीखने में पठार (अर्थ, कारण व निराकरण) एवं अधिगम स्थानांतरण)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.3' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Learning_Curves_Plateau_Transfer",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_07_4_001",
+      "micro_id": "07.4",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.4] 'बंडूरा, रॉबर्ट गेने की 8 सोपानिकी, ब्रूनर, हल, लेविन तथा स्मृति एवं विस्मृति' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[07.4] Regarding 'Bandura Gagne Bruner Memory Forgetting', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बंडूरा, रॉबर्ट गेने की 8 सोपानिकी, ब्रूनर, हल, लेविन तथा स्मृति एवं विस्मृति' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Bandura Gagne Bruner Memory Forgetting', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (बंडूरा, रॉबर्ट गेने की 8 सोपानिकी, ब्रूनर, हल, लेविन तथा स्मृति एवं विस्मृति)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.4' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Bandura_Gagne_Bruner_Memory_Forgetting",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    },
+    {
+      "id": "CDP_Q_07_4_901",
+      "micro_id": "07.4",
+      "exam_scope": "UPTET_ONLY",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[07.4] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'बंडूरा, रॉबर्ट गेने की 8 सोपानिकी, ब्रूनर, हल, लेविन तथा स्मृति एवं विस्मृति' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[07.4] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'Bandura Gagne Bruner Memory Forgetting'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बंडूरा, रॉबर्ट गेने की 8 सोपानिकी, ब्रूनर, हल, लेविन तथा स्मृति एवं विस्मृति' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Bandura Gagne Bruner Memory Forgetting', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "सीखने का अर्थ, नियम, व्यवहारवादी एवं गेस्टाल्ट सिद्धांत, वक्र एवं पठार -> थार्नडाइक, पावलव, स्किनर, कोहलर एवं अधिगम वक्र/पठार (बंडूरा, रॉबर्ट गेने की 8 सोपानिकी, ब्रूनर, हल, लेविन तथा स्मृति एवं विस्मृति)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '07.4' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Bandura_Gagne_Bruner_Memory_Forgetting",
+        "CDP_T07_S01",
+        "CDP_T07",
+        "CDP"
+      ]
+    }
+  ]
+}

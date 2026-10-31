@@ -1,0 +1,305 @@
+{
+  "assessment_id": "MATH_T03_ASSESSMENT",
+  "level": "TOPIC",
+  "subject_id": "MATH",
+  "topic_id": "MATH_T03",
+  "title_hi": "ज्यामिति, क्षेत्रमिति (2D/3D), मापन, आँकड़ों का प्रबंधन एवं बीजगणित — अध्याय मूल्यांकन",
+  "exam_scope": "BOTH",
+  "total_questions": 6,
+  "questions": [
+    {
+      "id": "MAT_Q_03_1_001",
+      "micro_id": "03.1",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.1] 'ज्यामितीय आकृतियाँ एवं स्थानिक समझ, त्रिभुज, चतुर्भुज, वृत्त (जीवा, स्पर्श रेखा, चक्रीय गुण), सममिति (Symmetry), पैटर्न एवं चतुर्भुजों की रचना' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[03.1] Regarding 'Geometry Shapes Symmetry Circle Constructions', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'ज्यामितीय आकृतियाँ एवं स्थानिक समझ, त्रिभुज, चतुर्भुज, वृत्त (जीवा, स्पर्श रेखा, चक्रीय गुण), सममिति (Symmetry), पैटर्न एवं चतुर्भुजों की रचना' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Geometry Shapes Symmetry Circle Constructions', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ज्यामिति, क्षेत्रमिति (2D/3D), मापन, आँकड़ों का प्रबंधन एवं बीजगणित -> ज्यामिति, क्षेत्रमिति, सांख्यिकी एवं Paper-II बीजगणित (ज्यामितीय आकृतियाँ एवं स्थानिक समझ, त्रिभुज, चतुर्भुज, वृत्त (जीवा, स्पर्श रेखा, चक्रीय गुण), सममिति (Symmetry), पैटर्न एवं चतुर्भुजों की रचना)",
+        "exam_perspective": "आत्मसात्करण बनाम समायोजन, जीववाद (Animism), और संरक्षण पर केस-स्टडी प्रश्न। अवस्थाओं की आयु-सीमा, तार्किक चिंतन की शुरुआत (मूर्त अवस्था) और पियाजे की शब्दावली।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.1' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Geometry_Shapes_Symmetry_Circle_Constructions",
+        "MATH_T03_S01",
+        "MATH_T03",
+        "MATH"
+      ]
+    },
+    {
+      "id": "MAT_Q_03_1_901",
+      "micro_id": "03.1",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.1] परीक्षा दृष्टिकोण (BOTH) के अनुसार 'ज्यामितीय आकृतियाँ एवं स्थानिक समझ, त्रिभुज, चतुर्भुज, वृत्त (जीवा, स्पर्श रेखा, चक्रीय गुण), सममिति (Symmetry), पैटर्न एवं चतुर्भुजों की रचना' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[03.1] According to the BOTH syllabus, what is the primary educational objective of 'Geometry Shapes Symmetry Circle Constructions'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'ज्यामितीय आकृतियाँ एवं स्थानिक समझ, त्रिभुज, चतुर्भुज, वृत्त (जीवा, स्पर्श रेखा, चक्रीय गुण), सममिति (Symmetry), पैटर्न एवं चतुर्भुजों की रचना' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Geometry Shapes Symmetry Circle Constructions', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ज्यामिति, क्षेत्रमिति (2D/3D), मापन, आँकड़ों का प्रबंधन एवं बीजगणित -> ज्यामिति, क्षेत्रमिति, सांख्यिकी एवं Paper-II बीजगणित (ज्यामितीय आकृतियाँ एवं स्थानिक समझ, त्रिभुज, चतुर्भुज, वृत्त (जीवा, स्पर्श रेखा, चक्रीय गुण), सममिति (Symmetry), पैटर्न एवं चतुर्भुजों की रचना)",
+        "exam_perspective": "आत्मसात्करण बनाम समायोजन, जीववाद (Animism), और संरक्षण पर केस-स्टडी प्रश्न। अवस्थाओं की आयु-सीमा, तार्किक चिंतन की शुरुआत (मूर्त अवस्था) और पियाजे की शब्दावली।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.1' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Geometry_Shapes_Symmetry_Circle_Constructions",
+        "MATH_T03_S01",
+        "MATH_T03",
+        "MATH"
+      ]
+    },
+    {
+      "id": "MAT_Q_03_2_001",
+      "micro_id": "03.2",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.2] 'मापन (लंबाई, भार, धारिता/आयतन), परिमाप एवं क्षेत्रफल (त्रिभुज, आयत, वर्ग, समलंब), 3D ठोस (घन, घनाभ, लंब वृत्तीय बेलन, शंकु, गोला) तथा आँकड़ों का प्रबंधन व सांख्यिकी (माध्य, माध्यिका, बहुलक, पाई व दंड चार्ट)' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[03.2] Regarding 'Measurement Mensuration 2D 3D Statistics', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'मापन (लंबाई, भार, धारिता/आयतन), परिमाप एवं क्षेत्रफल (त्रिभुज, आयत, वर्ग, समलंब), 3D ठोस (घन, घनाभ, लंब वृत्तीय बेलन, शंकु, गोला) तथा आँकड़ों का प्रबंधन व सांख्यिकी (माध्य, माध्यिका, बहुलक, पाई व दंड चार्ट)' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Measurement Mensuration 2D 3D Statistics', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ज्यामिति, क्षेत्रमिति (2D/3D), मापन, आँकड़ों का प्रबंधन एवं बीजगणित -> ज्यामिति, क्षेत्रमिति, सांख्यिकी एवं Paper-II बीजगणित (मापन (लंबाई, भार, धारिता/आयतन), परिमाप एवं क्षेत्रफल (त्रिभुज, आयत, वर्ग, समलंब), 3D ठोस (घन, घनाभ, लंब वृत्तीय बेलन, शंकु, गोला) तथा आँकड़ों का प्रबंधन व सांख्यिकी (माध्य, माध्यिका, बहुलक, पाई व दंड चार्ट))",
+        "exam_perspective": "ZPD, पाड़ (Scaffolding) और निज वाक् बनाम पियाजे के अहं-केंद्रित वाक् की तुलना। सामाजिक-सांस्कृतिक सिद्धांत के प्रतिपादक एवं ZPD/MKO का सीधा अर्थ।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.2' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Measurement_Mensuration_2D_3D_Statistics",
+        "MATH_T03_S01",
+        "MATH_T03",
+        "MATH"
+      ]
+    },
+    {
+      "id": "MAT_Q_03_2_901",
+      "micro_id": "03.2",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.2] परीक्षा दृष्टिकोण (BOTH) के अनुसार 'मापन (लंबाई, भार, धारिता/आयतन), परिमाप एवं क्षेत्रफल (त्रिभुज, आयत, वर्ग, समलंब), 3D ठोस (घन, घनाभ, लंब वृत्तीय बेलन, शंकु, गोला) तथा आँकड़ों का प्रबंधन व सांख्यिकी (माध्य, माध्यिका, बहुलक, पाई व दंड चार्ट)' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[03.2] According to the BOTH syllabus, what is the primary educational objective of 'Measurement Mensuration 2D 3D Statistics'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'मापन (लंबाई, भार, धारिता/आयतन), परिमाप एवं क्षेत्रफल (त्रिभुज, आयत, वर्ग, समलंब), 3D ठोस (घन, घनाभ, लंब वृत्तीय बेलन, शंकु, गोला) तथा आँकड़ों का प्रबंधन व सांख्यिकी (माध्य, माध्यिका, बहुलक, पाई व दंड चार्ट)' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Measurement Mensuration 2D 3D Statistics', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ज्यामिति, क्षेत्रमिति (2D/3D), मापन, आँकड़ों का प्रबंधन एवं बीजगणित -> ज्यामिति, क्षेत्रमिति, सांख्यिकी एवं Paper-II बीजगणित (मापन (लंबाई, भार, धारिता/आयतन), परिमाप एवं क्षेत्रफल (त्रिभुज, आयत, वर्ग, समलंब), 3D ठोस (घन, घनाभ, लंब वृत्तीय बेलन, शंकु, गोला) तथा आँकड़ों का प्रबंधन व सांख्यिकी (माध्य, माध्यिका, बहुलक, पाई व दंड चार्ट))",
+        "exam_perspective": "ZPD, पाड़ (Scaffolding) और निज वाक् बनाम पियाजे के अहं-केंद्रित वाक् की तुलना। सामाजिक-सांस्कृतिक सिद्धांत के प्रतिपादक एवं ZPD/MKO का सीधा अर्थ।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.2' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Measurement_Mensuration_2D_3D_Statistics",
+        "MATH_T03_S01",
+        "MATH_T03",
+        "MATH"
+      ]
+    },
+    {
+      "id": "MAT_Q_03_3_001",
+      "micro_id": "03.3",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "CONCEPTUAL_MCQ",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.3] 'बीजगणित (Paper-II): बीजीय व्यंजक, सर्वसमिकाएँ, गुणनखंड, एक चर वाले रैखिक समीकरण एवं युगपत समीकरण' के संदर्भ में राष्ट्रीय पाठ्यचर्या और बाल-केंद्रित शिक्षाशास्त्र के अनुसार कौन-सा कथन सर्वाधिक उपयुक्त है?",
+      "question_en": "[03.3] Regarding 'Paper2 Algebra Linear Equations Identities', which statement is most appropriate according to child-centered pedagogy?",
+      "options_hi": [
+        "केवल पाठ्यपुस्तक के तथ्यों को कंठस्थ (Rote Memorization) करवाना और दोहराना",
+        "बच्चों के पूर्व-ज्ञान, सक्रिय सहभागिता और वास्तविक जीवन के संदर्भगत अनुभवों को जोड़कर सिखाना",
+        "कठोर अनुशासन, दंड और मानकीकृत परीक्षाओं द्वारा बच्चों का स्थायी वर्गीकरण करना",
+        "कक्षा में व्यक्तिगत विभिन्नताओं, बहुभाषिकता और मातृभाषा की पूर्णतः उपेक्षा करना"
+      ],
+      "options_en": [
+        "Focusing solely on rote memorization and mechanical repetition of textbook facts",
+        "Connecting learning with children's prior knowledge, active participation, and contextual experiences",
+        "Classifying learners permanently through strict punishment and standardized testing",
+        "Ignoring individual differences, multilingualism, and mother tongue in the classroom"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बीजगणित (Paper-II): बीजीय व्यंजक, सर्वसमिकाएँ, गुणनखंड, एक चर वाले रैखिक समीकरण एवं युगपत समीकरण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Paper2 Algebra Linear Equations Identities', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ज्यामिति, क्षेत्रमिति (2D/3D), मापन, आँकड़ों का प्रबंधन एवं बीजगणित -> ज्यामिति, क्षेत्रमिति, सांख्यिकी एवं Paper-II बीजगणित (बीजगणित (Paper-II): बीजीय व्यंजक, सर्वसमिकाएँ, गुणनखंड, एक चर वाले रैखिक समीकरण एवं युगपत समीकरण)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.3' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "MEDIUM",
+      "bloom_level": "UNDERSTAND",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Paper2_Algebra_Linear_Equations_Identities",
+        "MATH_T03_S01",
+        "MATH_T03",
+        "MATH"
+      ]
+    },
+    {
+      "id": "MAT_Q_03_3_901",
+      "micro_id": "03.3",
+      "exam_scope": "BOTH",
+      "paper_level": [
+        "PAPER_1",
+        "PAPER_2"
+      ],
+      "question_type": "FACTUAL_DIRECT",
+      "source_type": "ORIGINAL",
+      "question_hi": "[03.3] परीक्षा दृष्टिकोण (BOTH) के अनुसार 'बीजगणित (Paper-II): बीजीय व्यंजक, सर्वसमिकाएँ, गुणनखंड, एक चर वाले रैखिक समीकरण एवं युगपत समीकरण' का मुख्य शैक्षिक उद्देश्य क्या है?",
+      "question_en": "[03.3] According to the BOTH syllabus, what is the primary educational objective of 'Paper2 Algebra Linear Equations Identities'?",
+      "options_hi": [
+        "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+        "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+        "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+        "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+      ],
+      "options_en": [
+        "Promoting rote memorization and exam anxiety among learners",
+        "Empowering holistic development, critical thinking, and conceptual clarity",
+        "Making the teaching process strictly teacher-centric and one-way",
+        "Restricting assessment solely to year-end written examinations"
+      ],
+      "correctIndex": 1,
+      "explanation_hi": "'बीजगणित (Paper-II): बीजीय व्यंजक, सर्वसमिकाएँ, गुणनखंड, एक चर वाले रैखिक समीकरण एवं युगपत समीकरण' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+      "explanation_en": "Under 'Paper2 Algebra Linear Equations Identities', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+      "analysis_hi": {
+        "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+        "related_theory": "ज्यामिति, क्षेत्रमिति (2D/3D), मापन, आँकड़ों का प्रबंधन एवं बीजगणित -> ज्यामिति, क्षेत्रमिति, सांख्यिकी एवं Paper-II बीजगणित (बीजगणित (Paper-II): बीजीय व्यंजक, सर्वसमिकाएँ, गुणनखंड, एक चर वाले रैखिक समीकरण एवं युगपत समीकरण)",
+        "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+        "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+        "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+        "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+        "exam_trend": {
+          "status": "NOT_APPLICABLE",
+          "summary": "यह अभ्यास प्रश्न '03.3' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+        }
+      },
+      "difficulty": "EASY",
+      "bloom_level": "REMEMBER",
+      "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+      "tags": [
+        "Paper2_Algebra_Linear_Equations_Identities",
+        "MATH_T03_S01",
+        "MATH_T03",
+        "MATH"
+      ]
+    }
+  ]
+}

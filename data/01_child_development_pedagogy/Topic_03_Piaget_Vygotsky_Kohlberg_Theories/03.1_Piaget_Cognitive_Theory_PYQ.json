@@ -1,0 +1,63 @@
+[
+  {
+    "id": "CDP_Q_03_1_901",
+    "micro_id": "03.1",
+    "exam_scope": "BOTH",
+    "paper_level": [
+      "PAPER_1"
+    ],
+    "question_type": "CONCEPTUAL_MCQ",
+    "source_type": "PYQ",
+    "pyq_meta": {
+      "exam": "UPTET",
+      "year": 2011,
+      "paper": "PAPER_1",
+      "session": "November 2011",
+      "question_number": 12,
+      "source_reference": "UPTET Nov 2011 Primary Level Official Paper",
+      "verification_status": "VERIFIED"
+    },
+    "question_hi": "वह स्तर जिसमें बच्चा किसी वस्तु एवं घटना के बारे में तार्किक रूप से सोचना शुरू करता है, कहा जाता है:",
+    "question_en": "The stage in which a child begins to think logically about objects and events is known as:",
+    "options_hi": [
+      "संवेदन प्रणोद अवस्था (Sensorimotor stage)",
+      "औपचारिक क्रियात्मक अवस्था (Formal operational stage)",
+      "पूर्व-क्रियात्मक अवस्था (Pre-operational stage)",
+      "मूर्त क्रियात्मक अवस्था (Concrete operational stage)"
+    ],
+    "options_en": [
+      "Sensorimotor stage",
+      "Formal operational stage",
+      "Pre-operational stage",
+      "Concrete operational stage"
+    ],
+    "correctIndex": 3,
+    "explanation_hi": "जीन पियाजे के संज्ञानात्मक विकास सिद्धांत के अनुसार, मूर्त क्रियात्मक अवस्था (7 से 11 वर्ष) में बच्चा प्रत्यक्ष व ठोस वस्तुओं और घटनाओं के बारे में तार्किक चिंतन (Logical thinking) प्रारंभ कर देता है।",
+    "analysis_hi": {
+      "option_analysis": "A: संवेदी-पेशीय अवस्था (0-2 वर्ष) इंद्रियजनित गामक क्रियाओं तक सीमित है। B: औपचारिक संक्रियात्मक अवस्था (11+ वर्ष) में 'अमूर्त' चिंतन होता है, न कि तार्किक चिंतन की शुरुआत। C: पूर्व-संक्रियात्मक अवस्था (2-7 वर्ष) में अतार्किक/अहं-केंद्रित सोच होती है। D: मूर्त क्रियात्मक अवस्था (7-11 वर्ष) में ठोस वस्तुओं पर तार्किक चिंतन शुरू होता है।",
+      "related_theory": "जीन पियाजे का संज्ञानात्मक विकास का सिद्धांत (4 अवस्थाएँ: S-P-C-F)।",
+      "exam_perspective": "UPTET में अवस्थाओं की मुख्य विशेषता सीधे पूछी जाती है, जबकि CTET में इसी नियम पर संरक्षण (Conservation) या उत्क्रमणीयता (Reversibility) का उदाहरण देकर प्रश्न पूछा जाता है।",
+      "elimination_logic": "प्रश्न में 'वस्तु एवं घटना' (मूर्त/ठोस रूप) और 'तार्किक सोच की शुरुआत' पूछा है। शुरुआत 7 वर्ष से पहले नहीं होती (अतः A और C गलत) और 11 वर्ष में अमूर्त चिंतन होता है (अतः B गलत)।",
+      "common_confusion": "अभ्यर्थी 'तार्किक चिंतन की शुरुआत' (मूर्त संक्रियात्मक) और 'अमूर्त तार्किक चिंतन' (औपचारिक संक्रियात्मक) में भ्रमित हो जाते हैं।",
+      "memory_tip": "'मूर्त वस्तु = तार्किक शुरुआत (7-11 वर्ष)'; 'अमूर्त विचार = परिपक्व तर्क (11+ वर्ष)'।",
+      "exam_trend": {
+        "status": "VERIFIED",
+        "summary": "पियाजे की तीसरी अवस्था (मूर्त संक्रियात्मक) से तार्किक चिंतन, संरक्षण और वर्गीकरण पर प्रत्येक UPTET व CTET में कम से कम 1 प्रश्न आता है।",
+        "evidence": [
+          {
+            "source": "UPTET Nov 2011 Paper-1"
+          }
+        ]
+      }
+    },
+    "difficulty": "EASY",
+    "bloom_level": "UNDERSTAND",
+    "diagnostic_tag": "PIAGET_CONCRETE_VS_FORMAL_CONFUSION",
+    "tags": [
+      "Jean_Piaget",
+      "Concrete_Operational_Stage",
+      "Logical_Thinking",
+      "UPTET_2011"
+    ]
+  }
+]

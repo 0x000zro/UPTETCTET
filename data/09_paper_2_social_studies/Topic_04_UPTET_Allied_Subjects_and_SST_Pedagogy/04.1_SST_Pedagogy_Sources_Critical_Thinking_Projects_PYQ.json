@@ -1,0 +1,50 @@
+[
+  {
+    "id": "SST_Q_04_1_901",
+    "micro_id": "04.1",
+    "exam_scope": "BOTH",
+    "paper_level": [
+      "PAPER_2"
+    ],
+    "question_type": "FACTUAL_DIRECT",
+    "source_type": "ORIGINAL",
+    "question_hi": "[04.1] परीक्षा दृष्टिकोण (BOTH) के अनुसार 'सामाजिक विज्ञान/सामाजिक अध्ययन की अवधारणा और प्रकृति, कक्षा की प्रक्रियाएँ, क्रियाकलाप और व्याख्यान, विवेचनात्मक चिंतन का विकास करना, पूछताछ/अनुभवजन्य साक्ष्य, शिक्षण की समस्याएँ, स्रोत — प्राथमिक और द्वितीयक, प्रोजेक्ट कार्य एवं मूल्यांकन' का मुख्य शैक्षिक उद्देश्य क्या है?",
+    "question_en": "[04.1] According to the BOTH syllabus, what is the primary educational objective of 'SST Pedagogy Sources Critical Thinking Projects'?",
+    "options_hi": [
+      "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+      "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+      "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+      "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+    ],
+    "options_en": [
+      "Promoting rote memorization and exam anxiety among learners",
+      "Empowering holistic development, critical thinking, and conceptual clarity",
+      "Making the teaching process strictly teacher-centric and one-way",
+      "Restricting assessment solely to year-end written examinations"
+    ],
+    "correctIndex": 1,
+    "explanation_hi": "'सामाजिक विज्ञान/सामाजिक अध्ययन की अवधारणा और प्रकृति, कक्षा की प्रक्रियाएँ, क्रियाकलाप और व्याख्यान, विवेचनात्मक चिंतन का विकास करना, पूछताछ/अनुभवजन्य साक्ष्य, शिक्षण की समस्याएँ, स्रोत — प्राथमिक और द्वितीयक, प्रोजेक्ट कार्य एवं मूल्यांकन' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'SST Pedagogy Sources Critical Thinking Projects', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "सामाजिक विज्ञान अध्यापन संबंधी मुद्दे एवं UPTET विशेष सहयोगी विषय -> सामाजिक विज्ञान पेडागोजी एवं गृह/कृषि/शारीरिक शिक्षा (UPTET विशेष) (सामाजिक विज्ञान/सामाजिक अध्ययन की अवधारणा और प्रकृति, कक्षा की प्रक्रियाएँ, क्रियाकलाप और व्याख्यान, विवेचनात्मक चिंतन का विकास करना, पूछताछ/अनुभवजन्य साक्ष्य, शिक्षण की समस्याएँ, स्रोत — प्राथमिक और द्वितीयक, प्रोजेक्ट कार्य एवं मूल्यांकन)",
+      "exam_perspective": "CTET में वैचारिक समझ, बाल-केंद्रित संदर्भ एवं अनुप्रयोग पर प्रश्न पूछे जाते हैं। UPTET में प्रत्यक्ष सिद्धांत, नियम, शिक्षण सूत्र एवं तथ्यात्मक बिंदुओं पर प्रश्न पूछे जाते हैं।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '04.1' (BOTH) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "EASY",
+    "bloom_level": "REMEMBER",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "SST_Pedagogy_Sources_Critical_Thinking_Projects",
+      "SST_T04_S01",
+      "SST_T04",
+      "PAPER_2_SOCIAL_STUDIES"
+    ]
+  }
+]

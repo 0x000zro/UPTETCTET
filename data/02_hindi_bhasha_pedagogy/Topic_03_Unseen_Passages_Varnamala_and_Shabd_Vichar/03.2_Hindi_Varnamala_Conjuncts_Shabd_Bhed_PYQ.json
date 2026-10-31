@@ -1,0 +1,51 @@
+[
+  {
+    "id": "HIN_Q_03_2_901",
+    "micro_id": "03.2",
+    "exam_scope": "UPTET_ONLY",
+    "paper_level": [
+      "PAPER_1",
+      "PAPER_2"
+    ],
+    "question_type": "FACTUAL_DIRECT",
+    "source_type": "ORIGINAL",
+    "question_hi": "[03.2] परीक्षा दृष्टिकोण (UPTET_ONLY) के अनुसार 'हिंदी वर्णमाला (स्वर, व्यंजन), 'अं' एवं 'अः', संयुक्त वर्ण, मात्रिक-अमात्रिक शब्द, तत्सम, तद्भव, देशज, विदेशी, पर्यायवाची, विलोम, तुकान्त-अतुकान्त' का मुख्य शैक्षिक उद्देश्य क्या है?",
+    "question_en": "[03.2] According to the UPTET_ONLY syllabus, what is the primary educational objective of 'Hindi Varnamala Conjuncts Shabd Bhed'?",
+    "options_hi": [
+      "शिक्षार्थियों में रटने की प्रवृत्ति और परीक्षा भय उत्पन्न करना",
+      "बच्चों के समग्र विकास, आलोचनात्मक चिंतन और अवधारणात्मक स्पष्टता को सशक्त बनाना",
+      "शिक्षण प्रक्रिया को केवल शिक्षक-केंद्रित और एकतरफा बनाना",
+      "मूल्यांकन को केवल वर्ष के अंत की लिखित परीक्षा तक सीमित रखना"
+    ],
+    "options_en": [
+      "Promoting rote memorization and exam anxiety among learners",
+      "Empowering holistic development, critical thinking, and conceptual clarity",
+      "Making the teaching process strictly teacher-centric and one-way",
+      "Restricting assessment solely to year-end written examinations"
+    ],
+    "correctIndex": 1,
+    "explanation_hi": "'हिंदी वर्णमाला (स्वर, व्यंजन), 'अं' एवं 'अः', संयुक्त वर्ण, मात्रिक-अमात्रिक शब्द, तत्सम, तद्भव, देशज, विदेशी, पर्यायवाची, विलोम, तुकान्त-अतुकान्त' के अंतर्गत रचनावादी एवं बाल-केंद्रित शिक्षाशास्त्र बच्चों के पूर्व-ज्ञान, सक्रिय खोज और त्रुटि-विश्लेषण को सार्थक अधिगम का आधार मानता है।",
+    "explanation_en": "Under 'Hindi Varnamala Conjuncts Shabd Bhed', constructivist and child-centered pedagogy prioritizes prior knowledge, active discovery, and diagnostic support.",
+    "analysis_hi": {
+      "option_analysis": "सही विकल्प बाल-केंद्रित, समावेशी और रचनावादी शिक्षाशास्त्र (NCF/NEP 2020) के अनुकूल है, जबकि अन्य विकल्पों में 'केवल', 'कंठस्थ', 'दंड' और 'उपेक्षा' जैसे नकारात्मक शिक्षण टैग हैं।",
+      "related_theory": "अपठित अनुच्छेद, हिंदी वर्णमाला, अयोगवाह एवं शब्द विचार -> अपठित गद्यांश/पद्यांश, ध्वनि परिचय एवं शब्द भेद (हिंदी वर्णमाला (स्वर, व्यंजन), 'अं' एवं 'अः', संयुक्त वर्ण, मात्रिक-अमात्रिक शब्द, तत्सम, तद्भव, देशज, विदेशी, पर्यायवाची, विलोम, तुकान्त-अतुकान्त)",
+      "exam_perspective": "ZPD, पाड़ (Scaffolding) और निज वाक् बनाम पियाजे के अहं-केंद्रित वाक् की तुलना। सामाजिक-सांस्कृतिक सिद्धांत के प्रतिपादक एवं ZPD/MKO का सीधा अर्थ।",
+      "elimination_logic": "'केवल' (Only), 'कंठस्थ करना' (Rote), 'दंड/भय' (Punishment) और 'उपेक्षा' (Ignore) वाले नकारात्मक विकल्पों को तुरंत हटाएँ।",
+      "common_confusion": "अभ्यर्थी अक्सर कठोर अनुशासन या मानकीकृत परीक्षा को गुणवत्ता का सूचक मान लेते हैं, जबकि सतत एवं व्यापक मूल्यांकन (CCE) और लचीलापन सही होता है।",
+      "memory_tip": "पूर्व-ज्ञान + सक्रिय सहभागिता + मातृभाषा सम्मान = सकारात्मक TET उत्तर।",
+      "exam_trend": {
+        "status": "NOT_APPLICABLE",
+        "summary": "यह अभ्यास प्रश्न '03.2' (UPTET_ONLY) के आधिकारिक पाठ्यक्रम बिंदुओं के अभ्यास हेतु निर्मित है।"
+      }
+    },
+    "difficulty": "EASY",
+    "bloom_level": "REMEMBER",
+    "diagnostic_tag": "CONSTRUCTIVIST_PEDAGOGY_CORE",
+    "tags": [
+      "Hindi_Varnamala_Conjuncts_Shabd_Bhed",
+      "HIN_T03_S01",
+      "HIN_T03",
+      "HINDI"
+    ]
+  }
+]
